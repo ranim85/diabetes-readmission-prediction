@@ -95,7 +95,7 @@ Strack, B. *et al.* (2014). Impact of HbA1c Measurement on Hospital Readmission 
 
 ## Limitations
 
-The data are old (1999–2008, ICD-9) US administrative records without vital signs, detailed lab values or social determinants; readmissions to other hospitals are not observed; validation is internal only. The model is a **research and educational project**, not a clinical tool. See [MODEL_CARD.md](MODEL_CARD.md).
+The data are old (1999–2008, ICD-9) US administrative records without vital signs, detailed lab values or social determinants; readmissions to other hospitals are not observed, validation is internal only. The model is a **research and educational project**, not a clinical tool. See [MODEL_CARD.md](MODEL_CARD.md).
 
 ## Authors
 
